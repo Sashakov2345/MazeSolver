@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b37dd99-25e8-414b-a98d-7529c6a18f01" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MazeSolver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeSolver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeSolver.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MazeSolver.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maze.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MazeSolver/maze/LoadedMaze$DeepSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MazeSolver/maze/LoadedMaze.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MazeSolver/maze/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MazeSolver/maze/Maze.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MazeSolver/maze/element/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MazeSolver/maze/element/Element.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MazeSolver/maze/element/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MazeSolver/maze/element/Nothing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maze/LoadedMaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maze/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maze/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maze/element/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maze/element/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maze/element/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maze/element/Nothing.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BCNvtx6OZGCZBTvg3MQeYzs63G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maze.Main" />
+      <module name="MazeSolver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b37dd99-25e8-414b-a98d-7529c6a18f01" name="Changes" comment="" />
+      <created>1656406342847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656406342847</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
