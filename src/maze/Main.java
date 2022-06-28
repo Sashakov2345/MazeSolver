@@ -76,7 +76,6 @@ public class Main {
 
     private boolean validLoadedMaze(List<String> loadedMaze) {
         if (Objects.equals(loadedMaze, null)) {
-            System.out.println("Objects.equals(loadedMaze, null)");
             return false;
         }
         int width = loadedMaze.get(1).length();
@@ -94,13 +93,11 @@ public class Main {
                     numberOfEntries++;
                 }
                 if (!checkForAccessibility(loadedMaze, k, i)) {
-                    System.out.println("!checkForAccessibility(loadedMaze,k,i)");
                     return false;
                 }
             }
         }
         if (numberOfEntries != 2) {
-            System.out.println("numberOfEntries != 2");
             return false;
         }
         return true;
