@@ -1,6 +1,6 @@
 package maze.element;
 
-public class Element {
+public abstract class Element {
     protected int y;
     protected int x;
     protected int value;
@@ -27,7 +27,8 @@ public class Element {
         this.x = x;
     }
 
-    public String printToFile() {
-        return ("");
-    }
+    public abstract String printToFile();
+
+    @Override
+    public abstract String toString();
 }
